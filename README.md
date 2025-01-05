@@ -7,3 +7,7 @@ WaterWise is am iOS app that allows users to access in-depth water quality data 
 - **Support with Donations**: Contribute to the cause through a donation page featuring a list of charities focused on improving water quality worldwide.
 
 Winner of first place at the TECHCORPShack Hackathon, WaterWise is designed to raise awareness about water safety while offering users valuable resources and an opportunity to make a difference.
+
+### Screenshot of App
+
+<img width="1512" alt="Screenshot" src="https://github.com/user-attachments/assets/d7e314e6-cd8e-40c4-b801-dd0f1a7c02d8" />
